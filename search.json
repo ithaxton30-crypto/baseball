@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The History of Major League Baseball",
+    "section": "",
+    "text": "Major League Baseball’s home-run story looks different when seasons of different lengths are compared by rate. The Home runs page charts home runs per team-game across history, showing that even the shortened seasons fall within the broader range of seasonal rates.\nThe career leaders are headed by Barry Bonds with 762 home runs, followed by Hank Aaron and Babe Ruth. The Sluggers page ranks the top 15, highlights careers overlapping 1994-2009, and looks more closely at Bonds’ season-by-season totals. Explore both analysis pages from the navbar."
+  },
+  {
+    "objectID": "sluggers.html#barry-bonds-by-season",
+    "href": "sluggers.html#barry-bonds-by-season",
+    "title": "Sluggers",
+    "section": "Barry Bonds by season",
+    "text": "Barry Bonds by season"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "home-runs.html",
+    "href": "home-runs.html",
+    "title": "Home runs",
+    "section": "",
+    "text": "# A tibble: 4 × 4\n  yearID total_HR total_team_games home_runs_per_game\n   &lt;int&gt;    &lt;int&gt;            &lt;int&gt;              &lt;dbl&gt;\n1   1981     1781             2788              0.639\n2   1994     3306             3200              1.03 \n3   2019     6776             4858              1.40 \n4   2020     2304             1796              1.28"
+  }
+]
