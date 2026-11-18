@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: home-runs.qmd
+        text: Home runs
       - about.qmd
 
 format:
@@ -17,5 +19,7 @@ format:
     css: styles.css
     toc: true
 
-
+execute:
+  echo: false
+  warning: false
 
