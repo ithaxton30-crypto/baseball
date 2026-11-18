@@ -2,7 +2,6 @@
 title: "The History of Major League Baseball"
 ---
 
-## Welcome
+Major League Baseball’s home-run story looks different when seasons of different lengths are compared by rate. The **Home runs** page charts home runs per team-game across history, showing that even the shortened seasons fall within the broader range of seasonal rates.
 
-This site explores the history of Major League Baseball through its data.
-Using the Lahman database, we will examine how the game and its players have changed over time.
+The career leaders are headed by Barry Bonds with 762 home runs, followed by Hank Aaron and Babe Ruth. The **Sluggers** page ranks the top 15, highlights careers overlapping 1994-2009, and looks more closely at Bonds' season-by-season totals. Explore both analysis pages from the navbar.
